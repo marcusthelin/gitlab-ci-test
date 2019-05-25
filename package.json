@@ -1,0 +1,11 @@
+{
+  "name": "ci-cd",
+  "version": "1.0.0",
+  "description": "Ci CD test",
+  "main": "index.js",
+  "author": "Marcus Thelin",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
