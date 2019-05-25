@@ -9,3 +9,4 @@ job1:
         - yarn test
     only:
         - triggers
+
