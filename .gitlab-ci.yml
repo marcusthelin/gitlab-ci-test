@@ -9,3 +9,5 @@ job1:
         - yarn test
     only:
         - master
+        - external
+        - merge_requests
