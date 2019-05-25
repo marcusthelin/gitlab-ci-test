@@ -7,5 +7,3 @@ job1:
     script:
         - yarn
         - yarn test
-    except:
-        - pushes
