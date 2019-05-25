@@ -9,4 +9,3 @@ job1:
         - yarn test
     only:
         - merge_requests
-
