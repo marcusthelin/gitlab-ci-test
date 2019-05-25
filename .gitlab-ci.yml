@@ -8,4 +8,4 @@ job1:
         - yarn
         - yarn test
     only:
-        - merge_requests
+        - triggers
