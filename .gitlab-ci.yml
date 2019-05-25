@@ -1,0 +1,9 @@
+stages:
+    - test
+
+job1:
+    image: node:10
+    stage: test
+    script:
+        - yarn
+        - yarn test
